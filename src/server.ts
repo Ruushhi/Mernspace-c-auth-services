@@ -1,5 +1,7 @@
 function welcome(name: string) {
-  console.log('Welcome to Fullstack Course ,' + name)
+    console.log("hello");
+
+    return name;
 }
 
-welcome('Rushi')
+welcome("Rushi");
