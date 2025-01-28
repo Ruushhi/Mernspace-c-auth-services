@@ -1,1 +1,0 @@
-console.log("welcome all to fullStack course")
